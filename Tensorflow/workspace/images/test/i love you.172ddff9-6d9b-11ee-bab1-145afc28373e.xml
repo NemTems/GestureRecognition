@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>i love you.172ddff9-6d9b-11ee-bab1-145afc28373e.jpg</filename>
+	<path>C:\AIUtilities\SignLanguageDetermination\Tensorflow\workspace\images\collectedimages\i love you.172ddff9-6d9b-11ee-bab1-145afc28373e.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>I love you</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>288</xmin>
+			<ymin>249</ymin>
+			<xmax>566</xmax>
+			<ymax>425</ymax>
+		</bndbox>
+	</object>
+</annotation>

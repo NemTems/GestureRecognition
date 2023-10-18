@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>yes.05f8ba9c-6d9b-11ee-a0ea-145afc28373e.jpg</filename>
+	<path>C:\AIUtilities\SignLanguageDetermination\Tensorflow\workspace\images\collectedimages\yes.05f8ba9c-6d9b-11ee-a0ea-145afc28373e.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>thank you</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>395</xmin>
+			<ymin>153</ymin>
+			<xmax>554</xmax>
+			<ymax>414</ymax>
+		</bndbox>
+	</object>
+</annotation>
